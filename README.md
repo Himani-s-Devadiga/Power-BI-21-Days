@@ -15,7 +15,7 @@ Welcome to my 21-day Power BI learning journey! I am building practical skills i
 
 | Day | Topic | Status |
 |---|---|---|
-| Day 01 | Introduction to Power BI | In Progress |
+| Day 01 | Introduction to Power BI | ✅  |
 | Day 02 | Importing Data | Not Started |
 | Day 03 | Power Query Basics | Not Started |
 | Day 04 | Data Transformation | Not Started |
